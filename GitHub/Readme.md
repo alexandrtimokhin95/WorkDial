@@ -1,5 +1,5 @@
 И так пердуны для того чтобы вы могли пользоваться гитом необходимо установить сам Git --> https://git-scm.com/ 
-После установки заходим в VsCode нажимаем вот сюда 
+После установки заходим в VsCode нажимаем вот сюда (Clone Repository)
 ![1](https://user-images.githubusercontent.com/69197227/112514469-66941380-8da6-11eb-8cab-412264f4d494.png)
 Далее копируем вот эту ссылочку https://github.com/IFelleRI/WorkDial.git и вставляем ее вот сюда 
 ![2](https://user-images.githubusercontent.com/69197227/112514705-a2c77400-8da6-11eb-9b76-86979b25e98b.png) 
